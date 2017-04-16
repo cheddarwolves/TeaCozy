@@ -91,7 +91,7 @@ main {
 
 #locations {
 	padding-top: 70px;
-	height: 500px;
+	min-height: 500px;
 	background-image: url("../images/img-locations-background.jpg");
 }
 
@@ -109,7 +109,7 @@ main {
 .location-item {
 	background-color: black;
 	width: 300px;
-	margin: 0 20px;
+	margin: 0 15px 30px 15px;
 }
 
 footer .contact {
